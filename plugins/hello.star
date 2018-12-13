@@ -1,1 +1,1 @@
-output("hello " + name + "!")
+output("hello " + name + " from: " + page.Title())
