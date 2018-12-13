@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+
+# technically it defaults to this directory, too
+plugin_dir = "plugins"
